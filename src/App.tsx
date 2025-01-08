@@ -1,8 +1,8 @@
 import "./App.css";
-import Message from "./part-1/2- Getting Started with React/5- Creating a React Component/Message.tsx";
+import ListGroup from "./part-1/3- Building Components/2- Creating a ListGroup Component/components/ListGroup.tsx";
 
 function App() {
-  return <Message />;
+  return <ListGroup />;
 }
 
 export default App;
